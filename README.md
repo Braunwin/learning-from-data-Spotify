@@ -1,9 +1,9 @@
-This Project aims to Provide Descriptive analytics on the top 10 0000 Songs on Spotify from the year 1960 to 2023, using python. I have anlayzed the Track Number , Popularity and Danceability Numbers of the Dataset.
+This Project aims to provide descriptive analytics on the top 10 0000 Songs on Spotify from the year 1960 to 2023, using python. I have anlayzed the Track Number , Popularity and Danceability Numbers of the Dataset.
 
 Reflection:
 Excel
 
-Analyzing Data using excel was a bit time consuming , as data had to be formatted in a certain way before it could be anlayzed. Any error That occured on the Dataset,affected the outcome of the calculations. 
+Analyzing Data using excel was a bit time consuming , as data had to be formatted in a all kinds of ways  before it could be anlayzed. Any error That occured on the Dataset,affected the outcome of the calculations. 
 Paying attention was of high importance as any value that is mistyped or missed can affect the result. 
 I would sometimes have to make sure that the correct rows are selected ,scrolling through 10 0000 rows of data was not ideal. Excel did give me the fexibility of being able to go back and refractor changes, s
 uch as cleaning my data and modifying my  calculations when needed and the changes would apply where applicable.
