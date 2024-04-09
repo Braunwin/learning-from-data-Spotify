@@ -10,7 +10,7 @@ uch as cleaning my data and modifying my  calculations when needed and the chang
 
 Python 
 
-Python was had higher processing speed in terms of outputing results and also loading data. , however if the code is long then I  would spend time just debugging and trying to find where the error is. 
+Python had higher processing speed in terms of outputing results and also loading data. , however if the code was long, then I  would spend time just debugging and trying to find where the error is. 
 Refractoring the loaded data becomes hard  as it changes the whole code and I would need to start my coding from scratch in order to match up the data with the code . Using arrays really helped and made the work more 
 understandable and simple to code.
 
