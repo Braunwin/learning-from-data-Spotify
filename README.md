@@ -20,7 +20,11 @@ understandable and simple to code.
 Python needs you to know a lot of coding and comes with some sort of automation while excel is more manual and is slow when processing large datasets.
 
 3.When will you use either of them
+
 I will use python when processing big data or large amount of data and need more insight on data anlysis, and excel for small basic visualization.
+Excel is user friendly and provides a GUI ,and therefore would use it for simple takss and anaylysing small amount of data.Excel is a good place to start when doing data anayltics to get me familiar with the funtions and calculations I need to use, While python is more complex and is not user-friendly . Python helps automate repetive tasks and can process  large data all at time .
 
 4.If you could do this assignment over what would you do differently? What are the gaps in your programming or stats knowledge?
+
+I think I would  add more interpretation to my data, by explaining what the results gathered from my data mean.Structure my data in a more meaningful way and provide more insights.With regards to gaps in my programming and stats, I would've relly wanted to explore on more statistcal calcluationsto use for my data. I think Learning python and how to implement and automate will help me understand what  I need to anaylze and report on.
 
